@@ -24,6 +24,6 @@ chmod +x ./server
 ```
 6) Open terminal in any other devices(>=2) connected to this device with some ip and enter:-
 ```
-nc 8888 <server-ip-address>
+nc <server-ip-address> 8888
 ```
 Enjoy the chat.
