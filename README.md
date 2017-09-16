@@ -1,5 +1,5 @@
-# Chatrooms-in-C
-Client-Server and Inter-client chatroom in C
+# A Simple Chat Application written in C
+Client-Server and Inter-client chat server in C
 
 Simple terminal chat prorams using Berkeley Sockets. 
 
