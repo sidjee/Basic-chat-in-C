@@ -1,5 +1,5 @@
 # A Simple Chat Application written in C
-Client-Server and Inter-client chat server in C
+## Client-Server and Inter-client chat server in C
 
 Simple terminal chat prorams using Berkeley Sockets. 
 
